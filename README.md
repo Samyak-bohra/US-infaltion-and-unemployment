@@ -17,4 +17,6 @@ Q4 what is the maximum CPI value in USA and in which segment?
 
 ![image](https://user-images.githubusercontent.com/100790766/156758504-5a81f516-f84d-472d-b31c-fa4dee25beec.png)
 
+Q5 What are the 5 highest unemployment rates in the age group above 24 and they don’t have disabilities and in which categories in 2021?
 
+![image](https://user-images.githubusercontent.com/100790766/156871391-2c82f759-39e8-4ef9-97c5-b112ef859860.png)
