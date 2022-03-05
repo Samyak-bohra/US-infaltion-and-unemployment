@@ -15,14 +15,6 @@ Q3 What is the Average inflation and unemployment in US from the time period 201
 
 Q4 what is the maximum CPI value in USA and in which segment?
 
-select year , value as infaltion , item_name
-
-from bigquery-public-data.bls.cpi_u
-
-where value =
-
-(select Max(value) from bigquery-public-data.bls.cpi_u)
-
 ![image](https://user-images.githubusercontent.com/100790766/156758504-5a81f516-f84d-472d-b31c-fa4dee25beec.png)
 
 
