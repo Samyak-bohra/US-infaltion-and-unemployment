@@ -25,3 +25,6 @@ Q6 What’s the change in average hourly earning pattern in context to inflation
 
 ![image](https://user-images.githubusercontent.com/100790766/156871549-1d25625f-7fc3-469d-89a2-38d479a71d98.png)
 
+Q7 What are the top 10 hourly-waged types of work in Charlotte-Concord-Gastonia, NC-SC and in which year ?
+
+![image](https://user-images.githubusercontent.com/100790766/156871991-fafe15c2-b998-4a31-81c3-855279af60fc.png)
