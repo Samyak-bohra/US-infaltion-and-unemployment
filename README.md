@@ -28,3 +28,9 @@ Q6 What’s the change in average hourly earning pattern in context to inflation
 Q7 What are the top 10 hourly-waged types of work in Charlotte-Concord-Gastonia, NC-SC and in which year ?
 
 ![image](https://user-images.githubusercontent.com/100790766/156871991-fafe15c2-b998-4a31-81c3-855279af60fc.png)
+
+Q 8 What is the trend and relationship between Average weekly earning and unemployment rate in USA from 2016 to 2021?
+
+![image](https://user-images.githubusercontent.com/100790766/156872169-7583ede4-2898-4070-ac14-3ec2bfc6993b.png)
+
+
