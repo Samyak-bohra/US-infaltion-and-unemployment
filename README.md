@@ -33,4 +33,15 @@ Q 8 What is the trend and relationship between Average weekly earning and unempl
 
 ![image](https://user-images.githubusercontent.com/100790766/156872169-7583ede4-2898-4070-ac14-3ec2bfc6993b.png)
 
+Q 9 What is the average hourly wage of healthcare support occupations across the US?
+
+![image](https://user-images.githubusercontent.com/100790766/156872247-e0495cdd-25ad-46d6-a116-88854391be8b.png)
+
+Q10 Who has the max hourly earning seasonally adjusted in USA? 
+
+![image](https://user-images.githubusercontent.com/100790766/156872402-398ddb8b-c736-46d6-8b75-77519f5b0a59.png)
+ 
+
+
+
 
