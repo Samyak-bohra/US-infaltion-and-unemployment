@@ -20,3 +20,8 @@ Q4 what is the maximum CPI value in USA and in which segment?
 Q5 What are the 5 highest unemployment rates in the age group above 24 and they don’t have disabilities and in which categories in 2021?
 
 ![image](https://user-images.githubusercontent.com/100790766/156871391-2c82f759-39e8-4ef9-97c5-b112ef859860.png)
+
+Q6 What’s the change in average hourly earning pattern in context to inflation during the pandemic as compared to pre pandemic?
+
+![image](https://user-images.githubusercontent.com/100790766/156871549-1d25625f-7fc3-469d-89a2-38d479a71d98.png)
+
