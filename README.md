@@ -23,6 +23,8 @@ Q5 What are the 5 highest unemployment rates in the age group above 24 and they 
 
 Q6 What’s the change in average hourly earning pattern in context to inflation during the pandemic as compared to pre pandemic?
 
+IF we see in the data that the CPI index value is increasing from 136.27 in 2016 to 149.77 in 2021, similarly we can see the increasing trend in the wages even if the pandemic was hit there was no impact on the hourly wages of the people in USA.
+
 ![image](https://user-images.githubusercontent.com/100790766/156871549-1d25625f-7fc3-469d-89a2-38d479a71d98.png)
 
 Q7 What are the top 10 hourly-waged types of work in Charlotte-Concord-Gastonia, NC-SC and in which year ?
