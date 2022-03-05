@@ -3,12 +3,6 @@ This is related to the study of the US inflation, unemployment , earning and wag
 
 Q1 what is the unadjusted average unemployment rate in males
 
-select AVG(value)
-
-from  bigquery-public-data.bls.unemployment_cps 
-
-where series_title like '%(unadj) Unemployment Rate%' and series_title like '%Male%'
-
 <img width="168" alt="image" src="https://user-images.githubusercontent.com/100790766/156757271-d80ba54d-b6e7-443a-ad8e-d0e24d60170c.png">
 
 Q2 what is the unadjusted avg unemployment rate in black people who are 20 and above for the year 2021?
