@@ -11,14 +11,6 @@ Q2 what is the unadjusted avg unemployment rate in black people who are 20 and a
 
 Q3 What is the Average inflation and unemployment in US from the time period 2018 to 2021 ?
 
-select CPI.year , AVG(CPI.value) as Inflation , AVG(UNE.value) as unemployment from  bigquery-public-data.bls.c_cpi_u CPI 
-
-left join bigquery-public-data.bls.unemployment_cps UNE on CPI.year = UNE.year 
-
-where CPI.year between 2018 and 2021 AND  series_title like '%(unadj) Unemployment Rate%'
-
-group by CPI.year 
-
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/100790766/156758039-179cf1dc-f60e-4fa8-b0b0-07263d22a67c.png">
 
 Q4 what is the maximum CPI value in USA and in which segment?
